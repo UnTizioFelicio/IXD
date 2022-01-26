@@ -96,6 +96,8 @@ function App() {
                 container 
                 item
                 justifyContent="center"
+                alignItems="center"
+                flexDirection="column"
             >
                 <h1>Traduzione</h1>
                 {traduzione}
